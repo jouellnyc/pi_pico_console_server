@@ -3,6 +3,7 @@
 
 Active and Passive Raspberry Pi boot messages monitor using a Pico and 1.3" display. 
 
+```
      ╔═══════════════════════════════════════════════════╗
      ║     Pi Pico Console Server Setup!  ✨              ║
      ╚═══════════════════════════════════════════════════╝
@@ -47,6 +48,7 @@ Active and Passive Raspberry Pi boot messages monitor using a Pico and 1.3" disp
     
     ════════════════════════════════════════════════
 
+```
 
 <img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/05188c7b-c9c7-4216-9bac-aed560821a4e" />
 
