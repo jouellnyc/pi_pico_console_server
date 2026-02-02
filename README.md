@@ -3,9 +3,7 @@
 
 Active and Passive Raspberry Pi boot messages monitor using a Pico and 1.3" display. 
 
-| Image |
-
-<img src="https://github.com/user-attachments/assets/1d248a58-322e-4a23-ad29-81f45b68591d" width="175" height="175">
+<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/05188c7b-c9c7-4216-9bac-aed560821a4e" />
 
 ## Features
 ✅ Shows scrolling boot logs when the Pi boots/reboots
