@@ -188,3 +188,7 @@ console=ttyUSB0,9600 ...
 # service file
 ExecStartPre=/bin/stty -F /dev/ttyUSB0 9600 cs8 -cstopb -parenb
 ```
+
+## Acknowledgements
+Developed with assistance from [Claude](https://claude.ai) (Anthropic).
+
